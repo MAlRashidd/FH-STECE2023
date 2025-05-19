@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/run-door-marco.froihofer.dir/run-door.cpp.o" -o run-door-marco.froihofer  ../lib/libdoor-marco.froihofer.a 

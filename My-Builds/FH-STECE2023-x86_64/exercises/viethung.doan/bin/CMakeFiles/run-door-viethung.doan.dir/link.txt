@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/run-door-viethung.doan.dir/run-door.cpp.o" -o run-door-viethung.doan  ../lib/libdoor-viethung.doan.a 

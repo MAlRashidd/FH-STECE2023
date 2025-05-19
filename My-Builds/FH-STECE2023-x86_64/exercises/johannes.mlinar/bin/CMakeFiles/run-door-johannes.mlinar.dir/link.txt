@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/run-door-johannes.mlinar.dir/run-door.cpp.o" -o run-door-johannes.mlinar  ../lib/libdoor-johannes.mlinar.a 

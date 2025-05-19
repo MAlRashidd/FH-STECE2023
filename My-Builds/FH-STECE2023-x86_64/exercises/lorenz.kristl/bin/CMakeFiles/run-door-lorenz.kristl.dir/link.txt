@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/run-door-lorenz.kristl.dir/run-door.cpp.o" -o run-door-lorenz.kristl  ../lib/libdoor-lorenz.kristl.a 
